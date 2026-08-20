@@ -46,6 +46,10 @@
 
 ## [RichText Reference](/docs/reference-guides/richtext.md)
 
+## [Compose Reference](/docs/reference-guides/compose/README.md)
+
+-   [useCopyToClipboard](/docs/reference-guides/compose/use-copy-to-clipboard.md)
+
 ## [Component Reference](/packages/components/README.md)
 
 ## [Package Reference](/docs/reference-guides/packages.md)
